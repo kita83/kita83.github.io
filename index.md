@@ -1,6 +1,8 @@
-## About me  
-言語 Jave, Python  
-ブログ [Pavement](http://strkita.hatenablog.com/)  
+## About me  
+### 経験  
+【業務】 `Jave` `PL/SQL` `ActionScript` `Oracle` `Spring Framework` `JBoss` `Subversion`
+【個人開発】 Python
+はてなブログ [Pavement](http://strkita.hatenablog.com/)  
 
 
 ### Markdown
