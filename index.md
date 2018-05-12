@@ -1,38 +1,11 @@
-## About me  
-### 経験  
-【業務】 `Jave` `PL/SQL` `ActionScript` `Oracle` `Spring Framework` `JBoss` `Subversion`
-【個人開発】 Python
+### About me  
+
+【業務】 `Jave` `Oracle` `PL/SQL` `ActionScript` `Struts` `Spring Framework` `Tomcat` `JBoss` `Subversion`  
+【個人開発】 `Python` `Django` `MySQL` `Heroku` `Amazon S3`  
+【寿司】 `握り` `細巻き` `軍艦`  
+  
 はてなブログ [Pavement](http://strkita.hatenablog.com/)  
+ロードバイク cannondale caad8 ブルベ 200km/300km/400km completed.
 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kita83/kita83.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
