@@ -1,25 +1,23 @@
 ### About me  
+メール kita83@gmail.com  
+GitHub [https://github.com/kita83](https://github.com/kita83)  
+はてなブログ [Pavement](http://strkita.hatenablog.com/)  
+Twitter[@strkita](https://twitter.com/strkita)  
+ロードバイク &#x1f6b4;cannondale caad8 - ブルベ 200km/300km/400km 完走。 [strava](https://www.strava.com/athletes/kita83)  
+  
+### 略歴
+岩手県盛岡市生まれ、神奈川県川崎在住、34歳。  
+19歳で上京、バンド活動の傍ら、インドなど東南アジアをバックパック放浪。  
+Webデザイナーとして就職した後、海外で働く夢を叶えるため寿司職人になる。  
+日本・中国・スウェーデンで板前として働き、帰国後は都内飲食企業にて、店舗開発・販促・営業本部など経験。  
+その後、ITの世界に戻る。  
 
+### スキル
 【業務】 `Jave` `Oracle` `PL/SQL` `ActionScript` `Struts` `Spring Framework` `Tomcat` `JBoss` `Subversion`  
   
 【個人開発】 `Python` `Django` `Android` `MySQL` `Heroku` `Amazon S3` `WordPress` `Photoshop` `Illustrator`
   
 【寿司】 `Nigiri` `Hosomaki` `Gunkan` `Sharikiri` `Tamagoyaki`
-  
-  
-はてなブログ [Pavement](http://strkita.hatenablog.com/)  
-  
-ロードバイク cannondale caad8  
- - ブルベ 200km/300km/400km completed.  
- - [strava](https://www.strava.com/athletes/kita83)  
-
-
-【略歴】
-岩手県盛岡市生まれ、19歳で上京。  
-バンド活動の傍ら、インドなど東南アジアをバックパック放浪。  
-Webデザイナーとして就職した後、海外で働く夢を叶えるため寿司職人になる。  
-日本・中国・スウェーデンで板前として働き、帰国後は都内飲食企業にて、店舗開発・販促・営業本部など経験。  
-その後、ITの世界に戻る。  
 
 ### プロダクト
 #### [Podcastブックマーク & 購読管理サービス 「logueHub」](https://loguehub.herokuapp.com/)
@@ -53,7 +51,7 @@ Webデザイナーとして就職した後、海外で働く夢を叶えるた�
 - プレイリスト公開・ランキング・シェア
 - 音声ファイルから特定部分を抽出、お気に入りとして登録 → シェア
 - 言及されたキーワードを自動的に抽出し、リンク生成(Amazon Transcribeなど活用)
-- 一部抜粋して自動文字起こし(著作権的に無理かも)
+- 一部抜粋して自動文字起こし(著作権的に厳しい？)
 - 会話の盛り上がりを可視化
 など  
   
@@ -67,4 +65,4 @@ Webデザイナーとして就職した後、海外で働く夢を叶えるた�
 - 2017年2月 着手
 - 2017年5月 リリース  
   
-その後、放置中。
+その後、放置中&#x1f605;
