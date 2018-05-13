@@ -25,7 +25,7 @@ Webデザイナーとして就職した後、海外で働く夢を叶えるた�
 ### スキル
 【業務】 `Jave` `Oracle` `PL/SQL` `ActionScript` `Flex` `Struts` `Spring Framework` `Tomcat` `JBoss` `Subversion`  
   
-【個人開発】 `Python` `Django` `Android` `MySQL` `Heroku` `Vagrant` `Amazon S3` `WordPress` `Photoshop` `Illustrator` 
+【個人開発】 `Python` `Django` `Android` `MySQL` `Heroku` `Vagrant` `Amazon S3` `WordPress` `Photoshop` `Illustrator` 　
   
 【自然言語】 `Japanese` `English(簡単なドキュメントが読める)`  
   
@@ -34,9 +34,9 @@ Webデザイナーとして就職した後、海外で働く夢を叶えるた�
 <a name="今後やりたいこと"></a>
 ### 今後やりたいこと
 - Pythonで Web/モバイル バックエンド開発
-- コンピュータ・サイエンス学習
 - 異文化・多文化環境での開発
 - VoiceUI開発
+- コンピュータ・サイエンス学習
 
 <a name="プロダクト"></a>
 ### プロダクト
