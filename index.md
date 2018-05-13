@@ -7,6 +7,7 @@
 
 <a name="基本情報"></a>
 ### 基本情報  
+![profile](https://raw.github.com/kita83/kita83.github.io/images/P_20180417_093648_vHDR_On.jpg)
 - メール kita83@gmail.com  
 - GitHub [https://github.com/kita83](https://github.com/kita83)  
 - ブログ [Pavement](http://strkita.hatenablog.com/)  
