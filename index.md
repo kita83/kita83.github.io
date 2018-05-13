@@ -8,6 +8,7 @@
 <a name="基本情報"></a>
 ### 基本情報  
 ![profile](https://raw.github.com/kita83/kita83.github.io/images/P_20180417_093648_vHDR_On.jpg)
+- 北田 宏明(34歳)
 - メール kita83@gmail.com  
 - GitHub [https://github.com/kita83](https://github.com/kita83)  
 - ブログ [Pavement](http://strkita.hatenablog.com/)  
@@ -16,7 +17,7 @@
   
 <a name="略歴"></a>
 ### 略歴
-岩手県盛岡市生まれ、神奈川県川崎在住、34歳。
+岩手県盛岡市生まれ、神奈川県川崎在住。
 19歳で上京、バンド活動の傍ら、インドなど東南アジアをバックパック放浪。
 Webデザイナーとして就職した後、海外で働く夢を叶えるため寿司職人になる。
 日本・中国・スウェーデンで板前として働き、帰国後は都内飲食企業にて、店舗開発・販促・営業本部など経験。
