@@ -42,7 +42,7 @@ Webデザイナーとして就職した後、海外で働く夢を叶えるた�
 #### [Podcastブックマーク & 購読管理サービス 「logueHub」](https://loguehub.herokuapp.com/)
   
 ![img01](https://raw.github.com/kita83/kita83.github.io/images/2018-05-12_233641.png)
-![img02](https://raw.github.com/kita83/kita83.github.io/images/2018-05-13_205010.png)
+![img02](https://raw.github.com/kita83/kita83.github.io/images/2018-05-19_172621.png)
 
 #### 制作背景
 1. テック系Podcastをよく聴くが、新しいチャンネルを探したい時に好きなジャンルに効率よくリーチできない。
