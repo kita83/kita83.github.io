@@ -1,42 +1,73 @@
 ### 目次
 - [基本情報](#基本情報)
-- [略歴](#略歴)
+- [属性](#属性)
 - [スキル](#スキル)
 - [今後やりたいこと](#今後やりたいこと)
 - [プロダクト](#プロダクト)
 
 <a name="基本情報"></a>
 ### 基本情報  
-![profile](https://raw.github.com/kita83/kita83.github.io/images/P_20180417_093648_vHDR_On.jpg)
-- 北田 宏明(35歳)
-- メール kita83@gmail.com  
+#### 名前
+- 北田 宏明
+#### 生年月日
+- 1983年5月29日
+#### 連絡先
+- kita83@gmail.com  
+#### 活動
 - GitHub [https://github.com/kita83](https://github.com/kita83)  
-- ブログ [Pavement](http://strkita.hatenablog.com/)  
+- はてなブログ [http://strkita.hatenablog.com/](http://strkita.hatenablog.com/)  
 - note [https://note.mu/kita83](https://note.mu/kita83)
 - Twitter[@strkita](https://twitter.com/strkita)  
 - ロードバイク &#x1f6b4;cannondale caad8 - ブルベ 200km/300km/400km 完走。 [strava](https://www.strava.com/athletes/kita83)  
   
-<a name="略歴"></a>
-### 略歴
-岩手県盛岡市生まれ、神奈川県川崎在住。
-19歳で上京、バンド活動の傍ら、インドなど東南アジアをバックパック放浪。
-Webデザイナーとして就職した後、海外で働く夢を叶えるため寿司職人になる。
-日本・中国・スウェーデンで板前として働き、帰国後は都内飲食企業にて、店舗開発・販促・営業本部など経験。
-その後、IT業界に戻り、Pythonエンジニアとして都内企業で勤務。 
+<a name="属性"></a>
+### 属性
+- 岩手県盛岡市生まれ、神奈川県川崎在住。
+- 元寿司屋板前、海外経験あり。
+- ソフトウェアエンジニア、主にPython
 　　
 <a name="スキル"></a>
 ### スキル
-- 【業務】 `Jave` `Oracle` `PL/SQL` `ActionScript` `Flex` `Struts` `Spring Framework` `Tomcat` `JBoss` `Subversion`  
-- 【個人開発】 `Python` `Django` `Android` `MySQL` `Heroku` `Vagrant` `Amazon S3` `WordPress` `Photoshop` `Illustrator` 　
-- 【自然言語】 `Japanese` `English(簡単なドキュメントが読める)`  
-- 【寿司】 `Nigiri` `Hosomaki` `Gunkan` `Sharikiri` `Tamagoyaki`
+| 技術       | 相対的習熟度 | 関連して経験した技術             |
+|--------------|-------|---------------------------|
+| Python       | ★★★★★ | Django, Flask             |
+| Java         | ★★★★☆ | Struts, Spring            |
+| Node.js      | ★☆☆☆☆ |                           |
+| JavaScript   | ★★☆☆☆ | Vue.js, Bootstrap, JQuery |
+| Rust         | ★☆☆☆☆ |                           |
+| ActionScript | ★★☆☆☆ | Flex                      |
+| PL/SQL       | ★★★☆☆ |                           |
+| C#           | ★★☆☆☆ | Unity                     |
+| Swift        | ★☆☆☆☆ | Xcode, ARKit              |
+| HTML5        | ★★★☆☆ |                           |
+| CSS3         | ★★☆☆☆ |                           |
+|              |       |                           |
+| MySQL        | ★★★☆☆ |                           |
+| PostgreSQL   | ★★☆☆☆ |                           |
+| MongoDB      | ★★★★☆ |                           |
+| Oracle       | ★★★☆☆ |                           |
+| Amazon RDS   | ★☆☆☆☆ |                           |
+|              |       |                           |
+| AWS          | ★★☆☆☆ | EC2, S3, Lambda           |
+| Heroku       | ★★★☆☆ |                           |
+| Tomcat       | ★★☆☆☆ |                           |
+| JBoss        | ★★☆☆☆ |                           |
+|              |       |                           |
+| Docker       | ★★☆☆☆ |                           |
+| Vagrant      | ★★☆☆☆ |                           |
+|              |       |                           |
+| Illustrator  | ★★★★☆ |                           |
+| Photoshop    | ★★★☆☆ |                           |
+|              |       |                           |
+| Nigiri    | ★★★★☆ |                           |
+| Hosomaki    | ★★★☆☆ |                           |
+| Gunkan    | ★★☆☆☆ |                           |
+| Sharikiri    | ★★★★☆ |                           |
+| Tamagoyaki    | ★★☆☆☆ |                           |
 
 <a name="今後やりたいこと"></a>
 ### 今後やりたいこと
-- 機械学習
-- Pythonで Web/モバイル バックエンド開発
-- 異文化・多文化環境での開発
-- VoiceUI開発
+- AR
 
 <a name="プロダクト"></a>
 ### プロダクト
@@ -55,10 +86,8 @@ Webデザイナーとして就職した後、海外で働く夢を叶えるた�
 #### 制作期間 7ヶ月
 - 2017年11月 構想開始
 - 2017年12月 着手
-- 2018年5月 とりあえず動くもの 超ベータ版リリース  
+- 2018年5月 とりあえず動くもの ベータ版リリース  
   
-絶賛試行錯誤中のため、色々と不安定です。
-
 #### 現状出来ること
 - 音声配信RSSフィード登録
 - トレンドランキング
@@ -74,14 +103,3 @@ Webデザイナーとして就職した後、海外で働く夢を叶えるた�
 - 一部抜粋して自動文字起こし(著作権的に厳しい？)
 - 会話の盛り上がりを可視化
 など  
-  
-#### 文字カウント機能付きメモ Andoridアプリ 「MeasureNote」
-![img03](https://raw.github.com/kita83/kita83.github.io/images/2018-05-13_211835.png)
-#### 制作背景
-初めての個人プロダクト。  
-シンプルな機能に限定して、アプリ制作〜リリースまでの流れを経験したかった。  
-  
-#### 制作期間 4ヶ月
-- 2017年2月 着手
-- 2017年5月 リリース  
-  
