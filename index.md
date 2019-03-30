@@ -12,6 +12,7 @@
 - メール kita83@gmail.com  
 - GitHub [https://github.com/kita83](https://github.com/kita83)  
 - ブログ [Pavement](http://strkita.hatenablog.com/)  
+- note [https://note.mu/kita83](https://note.mu/kita83)
 - Twitter[@strkita](https://twitter.com/strkita)  
 - ロードバイク &#x1f6b4;cannondale caad8 - ブルベ 200km/300km/400km 完走。 [strava](https://www.strava.com/athletes/kita83)  
   
@@ -21,7 +22,7 @@
 19歳で上京、バンド活動の傍ら、インドなど東南アジアをバックパック放浪。
 Webデザイナーとして就職した後、海外で働く夢を叶えるため寿司職人になる。
 日本・中国・スウェーデンで板前として働き、帰国後は都内飲食企業にて、店舗開発・販促・営業本部など経験。
-その後、ITの世界に戻り、SES企業でJavaをメインとした開発に携わる。 
+その後、IT業界に戻り、Pythonエンジニアとして都内企業で勤務。 
 　　
 <a name="スキル"></a>
 ### スキル
