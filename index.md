@@ -8,8 +8,7 @@
 <a name="基本情報"></a>
 ### 基本情報  
 --
-#### 名前
-- kita83
+#### kita83
 #### 生年月日
 - 1983年5月29日
 #### 連絡先
@@ -38,7 +37,6 @@
 | Java         | ★★★★☆ | Struts, Spring            |
 | Node.js      | ★☆☆☆☆ |                           |
 | JavaScript   | ★★☆☆☆ | Vue.js, Bootstrap, JQuery |
-| Rust         | ★☆☆☆☆ |                           |
 | ActionScript | ★★☆☆☆ | Flex                      |
 | PL/SQL       | ★★★☆☆ |                           |
 | C#           | ★★☆☆☆ | Unity                     |
@@ -66,44 +64,29 @@
 | Nigiri    | ★★★★☆ |                           |
 | Hosomaki    | ★★★☆☆ |                           |
 | Gunkan    | ★★☆☆☆ |                           |
-| Sharikiri    | ★★★★☆ |                           |
 | Tamagoyaki    | ★★☆☆☆ |                           |
-
-<a name="今後やりたいこと"></a>
-### 今後やりたいこと
-- AR
 
 <a name="プロダクト"></a>
 ### プロダクト
-#### [Podcastブックマーク & 購読管理サービス 「logueHub」](https://loguehub.herokuapp.com/)
+#### Witbot
+自然言語処理API Wit.ai と Slackbot を連携させたチャットボットツール
+制作期間 1日
+
+#### BingImageCollector
+Bingでキーワードによる画像検索からダウンロードまでを自動化
+機械学習のデータ集め用途
+
+#### Podcastブックマーク & 購読管理サービス logueHub
+[https://loguehub.herokuapp.com/](https://loguehub.herokuapp.com/)
   
 ![img01](https://raw.github.com/kita83/kita83.github.io/images/2018-05-12_233641.png)
 ![img02](https://raw.github.com/kita83/kita83.github.io/images/2018-05-19_172621.png)
 
-#### 制作背景
+#### 背景
 1. テック系Podcastをよく聴くが、新しいチャンネルを探したい時に好きなジャンルに効率よくリーチできない。
 または、ブログのソーシャルブックマークサイトのような形で、エピソード単位でトレンドが知りたい。  
   
 2. 現状では、音声配信に対しての反応はTwitter上でバズる程度だが、特定のプラットフォーム上で、コメントが付いて、拡散されて、深く考察される機会があればいいと考えた。  
-3. プログラミング歴約2年。 Python/Django で初めて本格的にWebアプリケーションを作ってみた。
+3. Python, Django, Heroku, AWS S3, PostgreSQL
 
-#### 制作期間 7ヶ月
-- 2017年11月 構想開始
-- 2017年12月 着手
-- 2018年5月 とりあえず動くもの ベータ版リリース  
-  
-#### 現状出来ること
-- 音声配信RSSフィード登録
-- トレンドランキング
-- お気に入り登録
-- プレイリスト作成
-- コメント
-
-#### これからやりたいこと
-- ページをまたいでの音声再生(Pjax実装)
-- プレイリスト公開・ランキング・シェア
-- 音声ファイルから特定部分を抽出、お気に入りとして登録 → シェア
-- 言及されたキーワードを自動的に抽出し、リンク生成(Amazon Transcribeなど活用)
-- 一部抜粋して自動文字起こし(著作権的に厳しい？)
-- 会話の盛り上がりを可視化
-など  
+4. 制作期間 7ヶ月
