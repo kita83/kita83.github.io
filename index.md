@@ -69,16 +69,16 @@
 <a name="プロダクト"></a>
 ### プロダクト
 #### ■ Witbot
-自然言語処理API Wit.ai と Slackbot を連携させたチャットボットツール
-制作期間 1日
+- 自然言語処理API Wit.ai と Slackbot を連携させたチャットボットツール
+- 制作期間 1日
 
 #### ■ BingImageCollector
-Bingでキーワードによる画像検索からダウンロードまでを自動化
-機械学習のデータ集め用途
+- Bingでキーワードによる画像検索からダウンロードまでを自動化
+- 機械学習のデータ集め用途
 
 #### ■ logueHub
-Podcast購読管理サービス
-[https://loguehub.herokuapp.com/](https://loguehub.herokuapp.com/)
+- Podcast購読管理サービス
+- [https://loguehub.herokuapp.com/](https://loguehub.herokuapp.com/)
   
 ![img01](https://raw.github.com/kita83/kita83.github.io/images/2018-05-12_233641.png)
 ![img02](https://raw.github.com/kita83/kita83.github.io/images/2018-05-19_172621.png)
