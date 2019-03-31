@@ -1,10 +1,13 @@
 <a name="基本情報"></a>
 #### 名前
 - kita83
+
 #### 生年月日
 - 1983年5月29日
+
 #### 連絡先
 - kita83@gmail.com  
+
 #### 活動
 - GitHub [https://github.com/kita83](https://github.com/kita83)  
 - はてなブログ [http://strkita.hatenablog.com/](http://strkita.hatenablog.com/)  
