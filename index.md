@@ -1,14 +1,14 @@
 <a name="基本情報"></a>
-#### 名前
+### 名前
 - kita83
 
-#### 生年月日
+### 生年月日
 - 1983年5月29日
 
-#### 連絡先
+### 連絡先
 - kita83@gmail.com  
 
-#### 活動
+### 活動
 - GitHub [https://github.com/kita83](https://github.com/kita83)  
 - はてなブログ [http://strkita.hatenablog.com/](http://strkita.hatenablog.com/)  
 - note [https://note.mu/kita83](https://note.mu/kita83)
@@ -21,7 +21,7 @@
 - 神奈川県川崎在住
 - 数年のWebデザイナー経験あり
 - 元寿司屋板前、海外経験（中国、スウェーデン）あり
-- ソフトウェアエンジニア、主にPython
+- ソフトウェアエンジニア、主にPython  
 　　
 <a name="スキル"></a>
 ### スキル
