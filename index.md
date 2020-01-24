@@ -1,6 +1,6 @@
 <a name="基本情報"></a>
 ### 名前
-- kita83
+- Hiroaki Kitada
 
 ### 生年月日
 - 1983年5月29日
@@ -19,9 +19,9 @@
 ### 属性
 - 岩手県盛岡市生まれ
 - 神奈川県川崎在住
-- 数年のWebデザイナー経験あり
-- 元寿司屋板前、海外経験（中国、スウェーデン）あり
-- ソフトウェアエンジニア、主にPython
+- 3年間のWebデザイナー経験あり
+- 元寿司屋板前、海外経験あり（中国、スウェーデン）
+- ソフトウェアエンジニア、主にPython, 趣味でRust
 
 
 <a name="スキル"></a>
@@ -30,12 +30,11 @@
 | 技術       | 相対的習熟度 | 関連して経験した技術             |
 |--------------|-------|---------------------------|
 | Python       | ★★★★★ | Django, Flask             |
-| Java         | ★★★★☆ | Struts, Spring            |
-| Node.js      | ★☆☆☆☆ |                           |
-| JavaScript   | ★★☆☆☆ | Vue.js, Bootstrap, JQuery |
+| Java         | ★★★★☆ | Struts                    |
+| JavaScript   | ★★☆☆☆ | Vue.js, Node.js, Bootstrap, JQuery |
+| Rust         | ★☆☆☆☆ |                           |
 | ActionScript | ★★☆☆☆ | Flex                      |
 | PL/SQL       | ★★★☆☆ |                           |
-| C#           | ★★☆☆☆ | Unity                     |
 | Swift        | ★☆☆☆☆ | Xcode, ARKit              |
 | HTML5        | ★★★☆☆ |                           |
 | CSS3         | ★★☆☆☆ |                           |
@@ -44,12 +43,10 @@
 | PostgreSQL   | ★★☆☆☆ |                           |
 | MongoDB      | ★★★★☆ |                           |
 | Oracle       | ★★★☆☆ |                           |
-| Amazon RDS   | ★☆☆☆☆ |                           |
 |              |       |                           |
-| AWS          | ★★☆☆☆ | EC2, S3, Lambda           |
+| AWS          | ★★☆☆☆ | EC2, S3, RDS, Lambda      |
 | Heroku       | ★★★☆☆ |                           |
 | Tomcat       | ★★☆☆☆ |                           |
-| JBoss        | ★★☆☆☆ |                           |
 |              |       |                           |
 | Docker       | ★★☆☆☆ |                           |
 | Vagrant      | ★★☆☆☆ |                           |
