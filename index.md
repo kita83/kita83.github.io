@@ -1,6 +1,6 @@
 <a name="基本情報"></a>
 ### 名前
-- Hiroaki Kitada :shipit: 
+- Hiroaki Kitada
 
 ### 生年月日
 - 1983年5月29日
