@@ -1,45 +1,47 @@
 <a name="基本情報"></a>
-### 名前
+### :shipit: 名前
 - Hiroaki Kitada
 
-### 生年月日
+### :birthday: 生年月日
 - 1983年5月29日
 
-### 連絡先
+### :postbox: 連絡先
 - kita83@gmail.com  
 
-### 活動
+### &#x1f6b4; 活動
 - GitHub [https://github.com/kita83](https://github.com/kita83)  
 - はてなブログ [http://strkita.hatenablog.com/](http://strkita.hatenablog.com/)  
 - note [https://note.mu/kita83](https://note.mu/kita83)
 - Twitter[@strkita](https://twitter.com/strkita)  
-- ロードバイク &#x1f6b4;cannondale caad8 - ブルベ 200km/300km/400km 完走。 [strava](https://www.strava.com/athletes/kita83)  
+- ロードバイク cannondale caad8 - ブルベ 200km/300km/400km 完走。 [strava](https://www.strava.com/athletes/kita83)  
   
 <a name="属性"></a>
-### 属性
+### :house_with_garden: 属性
 - 岩手県盛岡市生まれ
-- 神奈川県川崎在住
+- 神奈川県川崎市在住
+- Webサーバーサイド(メイン)/フロントエンド
+- パッケージシステム開発
+- データ分析・ビジュアライゼーション
+- 主にPython, 趣味でRust
 - 3年間のWebデザイナー経験あり
 - 元寿司屋板前、海外経験あり（中国、スウェーデン）
-- ソフトウェアエンジニア、主にPython, 趣味でRust
-
 
 <a name="スキル"></a>
-### スキル
+### :rocket: スキル
 
 | 技術       | 相対的習熟度 | 関連して経験した技術             |
 |--------------|-------|---------------------------|
 | Python       | ★★★★★ | Django, Flask             |
 | Java         | ★★★★☆ | Struts                    |
-| JavaScript   | ★★☆☆☆ | Vue.js, Node.js, Bootstrap, JQuery |
+| JavaScript   | ★★☆☆☆ | Vue.js, Node.js, JQuery   |
 | Rust         | ★☆☆☆☆ |                           |
 | ActionScript | ★★☆☆☆ | Flex                      |
 | PL/SQL       | ★★★☆☆ |                           |
-| Swift        | ★☆☆☆☆ | Xcode, ARKit              |
+| Swift        | ★☆☆☆☆ | ARKit                     |
 | HTML5        | ★★★☆☆ |                           |
 | CSS3         | ★★☆☆☆ |                           |
 |              |       |                           |
-| MySQL        | ★★★☆☆ |                           |
+| MySQL        | ★★★★☆ |                           |
 | PostgreSQL   | ★★☆☆☆ |                           |
 | MongoDB      | ★★★★☆ |                           |
 | Oracle       | ★★★☆☆ |                           |
@@ -47,6 +49,7 @@
 | AWS          | ★★☆☆☆ | EC2, S3, RDS, Lambda      |
 | Heroku       | ★★★☆☆ |                           |
 | Tomcat       | ★★☆☆☆ |                           |
+| Jupyter Notebook | ★★★★☆ |                           |
 |              |       |                           |
 | Docker       | ★★☆☆☆ |                           |
 | Vagrant      | ★★☆☆☆ |                           |
@@ -54,13 +57,17 @@
 | Illustrator  | ★★★★☆ |                           |
 | Photoshop    | ★★★☆☆ |                           |
 |              |       |                           |
+| Mac    | ★★★★☆ |                           |
+| Windows    | ★★★☆☆ |                           |
+| Ubuntu    | ★★★☆☆ |                           |
+|              |       |                           |
 | Nigiri    | ★★★★☆ |                           |
 | Hosomaki    | ★★★☆☆ |                           |
 | Gunkan    | ★★☆☆☆ |                           |
 | Tamagoyaki    | ★★☆☆☆ |                           |
 
 <a name="プロダクト"></a>
-### プロダクト
+### :deciduous_tree: プロダクト
 #### ■ Witbot
 - 自然言語処理API Wit.ai と Slackbot を連携させたチャットボットツール
 - 制作期間 1日
