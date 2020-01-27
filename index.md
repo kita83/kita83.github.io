@@ -1,14 +1,14 @@
 <a name="基本情報"></a>
-### :shipit: 名前
-- Hiroaki Kitada
+### 名前
+- Hiroaki Kitada :shipit: 
 
-### :birthday: 生年月日
+### 生年月日
 - 1983年5月29日
 
-### :postbox: 連絡先
+### 連絡先
 - kita83@gmail.com  
 
-### &#x1f6b4; 活動
+### 活動
 - GitHub [https://github.com/kita83](https://github.com/kita83)  
 - はてなブログ [http://strkita.hatenablog.com/](http://strkita.hatenablog.com/)  
 - note [https://note.mu/kita83](https://note.mu/kita83)
@@ -16,7 +16,7 @@
 - ロードバイク cannondale caad8 - ブルベ 200km/300km/400km 完走。 [strava](https://www.strava.com/athletes/kita83)  
   
 <a name="属性"></a>
-### :house_with_garden: 属性
+### 属性
 - 岩手県盛岡市生まれ
 - 神奈川県川崎市在住
 - Webサーバーサイド(メイン)/フロントエンド
