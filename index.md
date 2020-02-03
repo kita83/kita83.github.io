@@ -34,6 +34,7 @@
 | Python       | ★★★★★ | Django, Flask             |
 | Java         | ★★★★☆ | Struts                    |
 | JavaScript   | ★★☆☆☆ | Vue.js, Node.js, JQuery   |
+| TypeScript   | ★☆☆☆☆ |                           |
 | Rust         | ★☆☆☆☆ |                           |
 | ActionScript | ★★☆☆☆ | Flex                      |
 | PL/SQL       | ★★★☆☆ |                           |
