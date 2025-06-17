@@ -45,7 +45,13 @@ body {
   text-align: center;
   padding: 60px 0 40px;
   background-color: #e9ecef;
-  margin: 0 -20px 40px;
+  margin: 0 calc(-50vw + 50%) 40px;
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
 }
 
 .profile-image {
@@ -136,7 +142,9 @@ a:hover {
 
   .hero {
     padding: 40px 0 30px;
-    margin: 0 -15px 30px;
+    margin: 0 calc(-50vw + 50%) 30px;
+    margin-left: -50vw;
+    margin-right: -50vw;
   }
 
   .profile-image img {
